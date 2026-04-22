@@ -1,5 +1,7 @@
 # WorkForUniversity.
-2 Version
+2 Version:
+
+
 Autenticación y roles
 Ahora el sistema tiene login y logout. Nadie puede acceder sin identificarse. Cada usuario tiene un rol (Decanato, Profesor, Estudiante, IT o Consultor) y según ese rol ve unas opciones u otras. Por ejemplo, solo el Decanato puede aprobar horarios, y un profesor solo puede tocar su propia disponibilidad.
 Interfaz visual real
